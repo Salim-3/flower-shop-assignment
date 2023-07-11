@@ -1,0 +1,41 @@
+/*header releated style*/
+.header {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+    padding: 50px 100px 0px 100px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-pic {
+    width: 635px;
+}
+
+.banner-title {
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 25;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+}
+
+.banner-content {
+    max-width: 1920px;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32;
+}
