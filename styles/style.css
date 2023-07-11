@@ -57,7 +57,7 @@
 
 .box-section {
     display: flex;
-    margin: 48px 40px 100px 140px;
+    margin: 48px 140px 100px 40px;
 
 }
 
@@ -104,6 +104,35 @@
     background: rgba(71, 125, 17, 0.15);
     text-align: center;
 }
+
 .text-style {
-        text-decoration: underline;
+    text-decoration: underline;
 }
+
+.service-container {
+    display: flex;
+    justify-content: center;
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 178px;
+}
+.text-container {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.service-img {
+    width: 318px;
+    height: 420px;
+    padding: 100px 420px 100px 180px;
+}
+.text-primarry {
+    color: #E55473;
+}
+.instagram-picture {
+    display: flex;
+    justify-content: center;
+    margin: 48px 40px 100px 40px;
+} 
